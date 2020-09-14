@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c810425-d85e-497b-a21b-7283a48d8e4a" name="默认的" comment="do git commit">
-      <change afterPath="$PROJECT_DIR$/.idea/git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +93,7 @@
       <updated>1600052777980</updated>
       <workItem from="1600052779251" duration="1816000" />
       <workItem from="1600054599946" duration="284000" />
-      <workItem from="1600054907867" duration="361000" />
+      <workItem from="1600054907867" duration="434000" />
     </task>
     <task id="LOCAL-00001" summary="do git commit">
       <created>1600053496104</created>
@@ -120,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600055192565</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="do git commit">
+      <created>1600055273329</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600055273329</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +168,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="107" key="FileChooserDialogImpl/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1600053055993" />
+    <state x="-1619" y="-10" key="MergeDialog" timestamp="1600055300786">
+      <screen x="-1920" y="-311" width="1920" height="1040" />
+    </state>
+    <state x="-1619" y="-10" key="MergeDialog/0.0.1366.728/-1920.-311.1920.1040@-1920.-311.1920.1040" timestamp="1600055300786" />
+    <state x="-1430" y="59" key="MultipleFileMergeDialog" timestamp="1600055300796">
+      <screen x="-1920" y="-311" width="1920" height="1040" />
+    </state>
+    <state x="-1430" y="59" key="MultipleFileMergeDialog/0.0.1366.728/-1920.-311.1920.1040@-1920.-311.1920.1040" timestamp="1600055300796" />
     <state x="183" y="11" key="SettingsEditor" timestamp="1600054877338">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
