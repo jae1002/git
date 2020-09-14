@@ -7,7 +7,7 @@ public class TestGif {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello  !!!!你好!!");
-        System.out.println("hello");
+        System.out.println("cccc");
         System.out.println("hello");
         System.out.println("bbbbbb");
         System.out.println("aaa");
