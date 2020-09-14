@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c810425-d85e-497b-a21b-7283a48d8e4a" name="默认的" comment="do git commit">
+      <change afterPath="$PROJECT_DIR$/.idea/git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hotfix" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\Repository\repository_pinyougou" />
+        <option name="mavenHome" value="D:\Java\Server\apache-maven-3.6.0-bin" />
+        <option name="userSettingsFile" value="D:\Java\Server\apache-maven-3.6.0-bin\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hU5LiZEfKNBN6qpR0yDgVKa74q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c810425-d85e-497b-a21b-7283a48d8e4a" name="默认的" comment="" />
+      <created>1600052777980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600052777980</updated>
+      <workItem from="1600052779251" duration="1816000" />
+      <workItem from="1600054599946" duration="284000" />
+      <workItem from="1600054907867" duration="361000" />
+    </task>
+    <task id="LOCAL-00001" summary="do git commit">
+      <created>1600053496104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600053496104</updated>
+    </task>
+    <task id="LOCAL-00002" summary="do git commit">
+      <created>1600054424212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600054424212</updated>
+    </task>
+    <task id="LOCAL-00003" summary="do git commit">
+      <created>1600055192565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600055192565</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="hotfix" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="do git commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="do git commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="189" key="#Notifications" timestamp="1600052968325">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="189" key="#Notifications/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1600052968325" />
+    <state x="99" y="104" width="1166" height="525" key="DiffContextDialog" timestamp="1600054417992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="99" y="104" width="1166" height="525" key="DiffContextDialog/0.0.1366.728/-1920.-311.1920.1040@-1920.-311.1920.1040" timestamp="1600054417992" />
+    <state x="99" y="104" width="1166" height="525" key="DiffContextDialog/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1600054307475" />
+    <state x="462" y="107" key="FileChooserDialogImpl" timestamp="1600053055993">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="107" key="FileChooserDialogImpl/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1600053055993" />
+    <state x="183" y="11" key="SettingsEditor" timestamp="1600054877338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="11" key="SettingsEditor/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1600054877338" />
+    <state x="274" y="99" key="Vcs.Push.Dialog.v2" timestamp="1600053926154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1600053926154" />
+    <state x="464" y="100" key="VcsDiffUtil.ChangesDialog" timestamp="1600054324762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="464" y="100" key="VcsDiffUtil.ChangesDialog/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1600054324762" />
+    <state x="486" y="268" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600054738512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="486" y="268" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1600054738512" />
+    <state x="327" y="0" key="new project wizard" timestamp="1600053262945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="327" y="0" key="new project wizard/0.0.1366.728/-1920.-311.1920.1040@0.0.1366.728" timestamp="1600053262945" />
+  </component>
+</project>
