@@ -10,5 +10,6 @@ public class TestGif {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
+        System.out.println("aaa");
     }
 }
